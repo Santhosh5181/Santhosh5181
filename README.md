@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santhosh
+- 👋 Hi, I’m @Santhosh Kumar Sankoju
 - 👀 I’m interested in Learning,Eating,Sleeping... Repeat
 - 🌱 I’m currently learning Advanced topics of the .net and bdd
 - 💞️ I’m looking to collaborate on new technologies
