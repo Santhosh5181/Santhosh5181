@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santhosh
-- 👀 I’m interested in Learning,Eating and Sleeping
-- 🌱 I’m currently learning Advanced topics of the .net
+- 👀 I’m interested in Learning,Eating,Sleeping... Repeat
+- 🌱 I’m currently learning Advanced topics of the .net and bdd
 - 💞️ I’m looking to collaborate on new technologies
 - 📫 How to reach me ... Santhosh5181
 
